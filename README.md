@@ -1,4 +1,5 @@
-# number guessing game
+# Number Guessing Game
+
 import java.util.Random;
 import java.util.Scanner;
 public class NumberGuessingGame {
@@ -23,5 +24,3 @@ if (guess == numberToGuess) {
 scanner.close();
     }
 }
-![image](https://github.com/user-attachments/assets/45ee94f5-a30b-468e-9afd-bd5e07eb9848)
-
